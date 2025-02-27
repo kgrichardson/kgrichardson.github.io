@@ -7,7 +7,7 @@ subtitle: M.S. in Data Analytics and Policy Candidate @ Johns Hopkins University
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: profile_photo.png
   image_circular: false # crops the image to make it circular
   more_info: # removed, goes below photo
 
