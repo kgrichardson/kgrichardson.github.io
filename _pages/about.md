@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.S. in Data Analytics and Policy Candidate @ Johns Hopkins University | U.S. Marine Corps Veteran
+# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: # removed, goes below photo
 
@@ -24,4 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Data analyst skilled in statistical analysis, machine learning, data visualization, and policy analytics, applying data-driven insights to real-world challenges.
+# topline bio
+I am a data analyst with expertise in statistical analysis, machine learning, data visualization, and policy analytics. I enjoy transforming complex datasets into actionable insights that drive informed decision-making. With a passion for solving real-world challenges, I leverage data to bridge the gap between analytics and impactful business solutions.
+
+I am driven by curiosity and a commitment to using data for meaningful change, ensuring insights are both rigorous and actionable. Whether working independently or collaborating in a team, I bring a strategic mindset and a strong analytical foundation to every project.
