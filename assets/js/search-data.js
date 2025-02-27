@@ -432,28 +432,21 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/kgrichardson", "_blank");
+          window.open("https://github.com/kgrichardson", "_blank");
         },
       },{
         id: 'social-kaggle',
         title: 'Kaggle',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.kaggle.com/https://www.kaggle.com/kevinrichardson1", "_blank");
+          window.open("https://www.kaggle.com/kevinrichardson1", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-g-richardson/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/kevin-g-richardson", "_blank");
         },
       },{
       id: 'light-theme',
