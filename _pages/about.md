@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Data Analytics and Policy Candidate @ Johns Hopkins University | U.S. Marine Corps Veteran
-# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: **M.S. in Data Analytics and Policy Candidate @ Johns Hopkins University | U.S. Marine Corps Veteran**
 
 profile:
   align: right
