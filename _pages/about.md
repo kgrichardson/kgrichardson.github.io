@@ -25,7 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# topline bio
 I am a data analyst with expertise in statistical analysis, machine learning, data visualization, and policy analytics. I enjoy transforming complex datasets into actionable insights that drive informed decision-making. With a passion for solving real-world challenges, I leverage data to bridge the gap between analytics and impactful business solutions.
 
 I am driven by curiosity and a commitment to using data for meaningful change, ensuring insights are both rigorous and actionable. Whether working independently or collaborating in a team, I bring a strategic mindset and a strong analytical foundation to every project.
