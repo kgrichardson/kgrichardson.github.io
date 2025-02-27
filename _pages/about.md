@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: # add text right ebout title
+subtitle: # add text right below title
 
 profile:
   align: right
-  image: profile_photo.png
+  image: profile_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: # removed, goes below photo
 
