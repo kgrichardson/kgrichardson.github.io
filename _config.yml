@@ -20,7 +20,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://kgrichardson.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -125,9 +125,9 @@ disqus_shortname: # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@richardson.g.kevin/feed
-  - #name: Google Blog
+  #- name: Google Blog
     #posts:
-      - #url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+      #- url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         #published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
