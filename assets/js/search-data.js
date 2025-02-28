@@ -97,6 +97,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/kevin-g-richardson", "_blank");
         },
       },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@richardson.g.kevin", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
