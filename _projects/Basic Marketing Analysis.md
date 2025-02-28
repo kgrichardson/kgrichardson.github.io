@@ -1,48 +1,53 @@
 ---
 layout: page
 title: Basic Marketing Analysis
-description: with background image
+description: Insights from customer segmentation and marketing campaign success analysis
 img: assets/img/supermarket.jpg
 importance: 1
 category: Excel
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Summary
+This project dives into understanding a small business’s customer base and measuring how well its marketing campaigns are performing&mdash;all using Excel. Customer segmentation helps businesses get a clearer picture of their audience, while comparing campaign results shows whether they’re reaching the right people. These insights shape smarter marketing strategies. With Excel’s built-in **functions**, **PivotTables**, and **visualizations**, analysts can break down the data effectively. A well-designed dashboard brings everything together, giving decision-makers the key takeaways at a glance.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# Scenario
+**ABC Food Store**, a local grocery store in a small city&mdash;think Charlottesville, Virginia&mdash;is looking to grow and strengthen its customer base through targeted marketing campaigns. So far, company leaders have launched six campaigns, but they need to know if these efforts are actually working. Now, it's up to the company’s data analyst to assess campaign performance and provide insights that will inform future marketing strategies. By analyzing **customer segmentation**, **purchase patterns**, and **campaign engagement**, the analyst can help optimize marketing efforts for better results.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+[//]: # (Adding C-Ville photo)
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/c-ville.jpg" title="Charlottesville" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    If you ever have the change to visit Charlottesville, I highly recommend it! Photo courtesy of the Universtiy of Virginia.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
+# Solution
+...
+
+## Techniques
+
+### ...
+...
+
+### ...
+...
+
+### ...
+...
+
+# Conclusions
+
+# Final Thoughts
+
+# Skills Summary
+- Excel
+- PivotTables
+- ...
+
+This project uses customer segmentation and campaign analysis 
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
