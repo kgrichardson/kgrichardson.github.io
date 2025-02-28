@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 **M.S. in Data Analytics and Policy Candidate @ Johns Hopkins University, \
-USMC Veteran**
+U.S. Marine Corps Veteran**
 
 I am a data analyst with expertise in statistical analysis, machine learning, data visualization, and policy analytics. I enjoy transforming complex datasets into actionable insights that drive informed decision-making. With a passion for solving real-world challenges, I leverage data to bridge the gap between analytics and impactful business solutions.
 
