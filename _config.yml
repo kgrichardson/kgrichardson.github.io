@@ -199,6 +199,16 @@ exclude:
   - _pages/cv.md
   - _pages/profiles.md
   - _news.md
+  - _posts/2024*.md
+  - _posts/2023*.md
+  - _posts/2022*.md
+  - _posts/2021*.md
+  - _posts/2020*.md
+  - _posts/2019*.md
+  - _posts/2018*.md
+  - _posts/2017*.md
+  - _posts/2016*.md
+  - _posts/2015*.md
 keep_files:
   - CNAME
   - .nojekyll
