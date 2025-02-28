@@ -6,7 +6,7 @@ subtitle: # add text right below title
 
 profile:
   align: right
-  image: profile_photo.jpg
+  image: profile_photo.PNG
   image_circular: false # crops the image to make it circular
   more_info: # removed, goes below photo
 
