@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{
+        },{id: "projects-basic-marketing-analysis",
+          title: 'Basic Marketing Analysis',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Basic-Marketing-Analysis/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
