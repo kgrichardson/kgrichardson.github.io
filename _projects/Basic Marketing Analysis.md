@@ -7,6 +7,8 @@ importance: 1
 category: Excel
 related_publications: true
 ---
+# Repository Link
+embed link here
 
 # Summary
 This project dives into understanding a small business’s customer base and measuring how well its marketing campaigns are performing&mdash;all using Excel. Customer segmentation helps businesses get a clearer picture of their audience, while comparing campaign results shows whether they’re reaching the right people. These insights shape smarter marketing strategies. With Excel’s built-in **functions**, **PivotTables**, and **visualizations**, analysts can break down the data effectively. A well-designed dashboard brings everything together, giving decision-makers the key takeaways at a glance.
