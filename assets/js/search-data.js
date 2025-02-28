@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-basic-marketing-analysis",
           title: 'Basic Marketing Analysis',
-          description: "with background image",
+          description: "Insights from customer segmentation and marketing campaign success analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Basic-Marketing-Analysis/";
             },},{
