@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here are some of my projects to demonstrate data analytics techniques
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Excel, SQL, Python, R]
 horizontal: false
 ---
 
