@@ -205,6 +205,7 @@ exclude:
   - _posts/2017*.md
   - _posts/2016*.md
   - _posts/2015*.md
+  - _plugins/external-posts.rb
 keep_files:
   - CNAME
   - .nojekyll
